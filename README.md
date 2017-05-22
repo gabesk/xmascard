@@ -1,7 +1,7 @@
 # xmascard
 Merry Christmas!
 
-![Picture of board](docs/board.jpg "Picture of board.")
+![Picture of board](docs/board.JPG "Picture of board.")
 
 Of course, this is a little late for Christmas; by now it's probably closer in temperature in the southern hemisphere. Nevertheless, better late than never.
 
